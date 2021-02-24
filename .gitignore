@@ -1,0 +1,16 @@
+Library/
+.vscode/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+.hg/
+*.meta
+*.prefab
+.hgignore
+*.csproj
+*.sln
+TextMesh Pro/
+Assets/AnimationImporter/
+
+Assets/WSATestCertificate.pfx
