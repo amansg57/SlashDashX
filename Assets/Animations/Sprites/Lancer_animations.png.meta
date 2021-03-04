@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: e045f6cd1968fe4448158c1a8846c3f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4028837281593336267
+    second: Lancer_animations 0
+  - first:
+      213: 6857892089555151195
+    second: Lancer_animations 1
+  - first:
+      213: 4700559699433773917
+    second: Lancer_animations 2
+  - first:
+      213: 7101554332681838927
+    second: Lancer_animations 3
+  - first:
+      213: -3979883202264734255
+    second: Lancer_animations 4
+  - first:
+      213: 2900629884026172510
+    second: Lancer_animations 5
+  - first:
+      213: -8202487556504973981
+    second: Lancer_animations 6
+  - first:
+      213: 864948510944703196
+    second: Lancer_animations 7
+  - first:
+      213: 1258722731717322054
+    second: Lancer_animations 8
+  - first:
+      213: -1962278387186937897
+    second: Lancer_animations 9
+  - first:
+      213: 9149856334960636653
+    second: Lancer_animations 10
+  - first:
+      213: 8252130390508992986
+    second: Lancer_animations 11
+  - first:
+      213: 52574240339443285
+    second: Lancer_animations 12
+  - first:
+      213: -2216961236317451212
+    second: Lancer_animations 13
+  - first:
+      213: 8534787902250891474
+    second: Lancer_animations 14
+  - first:
+      213: 6078700880812493874
+    second: Lancer_animations 15
+  - first:
+      213: 4018439911367910762
+    second: Lancer_animations 16
+  - first:
+      213: 8594297330439024543
+    second: Lancer_animations 17
+  - first:
+      213: 1427266594689591126
+    second: Lancer_animations 18
+  - first:
+      213: 1972990455917691230
+    second: Lancer_animations 19
+  - first:
+      213: 568698154076879405
+    second: Lancer_animations 20
+  - first:
+      213: -2576483361213343974
+    second: Lancer_animations 21
+  - first:
+      213: 6366427513500852564
+    second: Lancer_animations 22
+  - first:
+      213: 6217378965679078626
+    second: Lancer_animations 23
+  - first:
+      213: -2942282404460131655
+    second: Lancer_animations 24
+  - first:
+      213: 96747628914169727
+    second: Lancer_animations 25
+  - first:
+      213: -4400191770133337792
+    second: Lancer_animations 26
+  - first:
+      213: 4015677388345241422
+    second: Lancer_animations 27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lancer_animations 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3520
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 2
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3520
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 3
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3520
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2944
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 6
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2944
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 7
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2944
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2368
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2368
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 10
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2368
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 11
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2368
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1792
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 14
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1792
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 15
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1792
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1216
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 18
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1216
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 19
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1216
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 640
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 22
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 640
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 23
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 640
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 25
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 64
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 26
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 64
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer_animations 27
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 64
+        width: 846
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
